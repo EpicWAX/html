@@ -1,0 +1,13 @@
+section {
+	margin-top: 50px;
+}
+
+.open {
+	text-align: center;
+	background-image: url("background01.png");
+	background-attachment:scroll;
+    background-repeat : no-repeat;
+    background-position: top;
+    background-size:  cover;
+}
+
